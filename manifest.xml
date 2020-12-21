@@ -1,0 +1,22 @@
+<updates>
+	<update>
+		<name><![CDATA[ Phoca Cart Feed Heureka.cz Plugin ]]></name>
+		<description><![CDATA[ Phoca Cart Feed - Heureka.cz plugin - XML feed plugin for Phoca Cart component. Extends XML Feed with new Heureka.cz elements. ]]></description>
+		<element>heureka_cz</element>
+		<folder>pcf</folder>
+		<type>plugin</type>
+		<version>3.5.5</version>
+		<infourl title="Phoca Cart Feed Heureka.cz Plugin 3.5.5">https://www.phoca.cz/</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/PhocaCz/PhocaCartFeedHeurekaCzPlugin/releases/download/3.5.5/plg_pcf_heureka_cz_v3.5.5.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[ Phoca.cz ]]></maintainer>
+		<maintainerurl>https://www.phoca.cz/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="3.9"/>
+		<client>site</client>
+	</update>
+</updates>

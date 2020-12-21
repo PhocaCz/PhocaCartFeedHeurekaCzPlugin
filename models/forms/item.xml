@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<fieldset>
+		<field name="item_published" type="radio" class="btn-group btn-group-yesno" default="1" label="PLG_PCF_HEUREKA_CZ_FIELD_ITEM_PUBLISHED_FEED_LABEL" description="PLG_PCF_HEUREKA_CZ_FIELD_ITEM_PUBLISHED_FEED_DESC" >
+			<option value="1">PLG_PCF_HEUREKA_CZ_PUBLISHED</option>
+			<option value="0">PLG_PCF_HEUREKA_CZ_UNPUBLISHED</option>
+		</field>
+	
+        <field name="PRODUCTNAME" default="" size="10" type="text" label="PLG_PCF_HEUREKA_CZ_FIELD_ITEM_PRODUCTNAME_LABEL" description="PLG_PCF_HEUREKA_CZ_FIELD_ITEM_PRODUCTNAME_DESC"/>
+        <field name="HEUREKA_CPC" default="" size="10" type="text" label="PLG_PCF_HEUREKA_CZ_FIELD_ITEM_CPC_LABEL" description="PLG_PCF_HEUREKA_CZ_FIELD_ITEM_CPC_DESC"/>
+		<field name="GIFT" default="" size="10" type="text" label="PLG_PCF_HEUREKA_CZ_FIELD_ITEM_GIFT_LABEL" description="PLG_PCF_HEUREKA_CZ_FIELD_ITEM_GIFT_DESC"/>
+		<field name="CATEGORYTEXT" default="" size="10" type="textarea" label="PLG_PCF_HEUREKA_CZ_FIELD_ITEM_CATEGORYTEXT_LABEL" description="PLG_PCF_HEUREKA_CZ_FIELD_ITEM_CATEGORYTEXT_DESC"/>
+	</fieldset>
+</form>
