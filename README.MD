@@ -54,9 +54,13 @@ Phoca Cart Feed - Heureka.cz plugin - XML feed plugin for Phoca Cart component. 
 
 
 
+
+
+
+
 ## Version
 
-3.5.5
+3.5.7
 
 
 
