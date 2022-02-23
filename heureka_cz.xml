@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension type="plugin" group="pcf" method="upgrade" version="3.9">
+<extension type="plugin" group="pcf" method="upgrade" version="4.0">
 	<name>plg_pcf_heureka_cz</name>
 	<author>Jan Pavelka (www.phoca.cz)</author>
-	<creationDate>22/09/2021</creationDate>
+	<creationDate>23/02/2022</creationDate>
 	<authorEmail></authorEmail>
 	<authorUrl>https://www.phoca.cz</authorUrl>
 	<copyright>Jan Pavelka</copyright>
 	<license>GNU/GPL</license>
-	<version>3.5.7</version>
+	<version>4.0.0</version>
 	<description>PLG_PCF_HEUREKA_CZ_DESCRIPTION</description>
 	<projectName>PhocaCartFeedHeurekaCzPlugin</projectName>
 
 	<files>
 		<folder>models</folder>
-		<filename plugin="heureka_cz">heureka_cz.php</filename>
 		<filename plugin="heureka_cz">index.html</filename>
+		<filename plugin="heureka_cz">heureka_cz.php</filename>
 		<filename plugin="heureka_cz">manifest.xml</filename>
 	</files>
 
